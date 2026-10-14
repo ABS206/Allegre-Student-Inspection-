@@ -1,6 +1,6 @@
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyC48eOpU_hxWxCxehV7x1TFFvMGMq_PfYE",
+
+window.ALLEGRE_FIREBASE_CONFIG = {
+  apiKey: "PASTE_YOUR_EXACT_FIREBASE_API_KEY_HERE",
   authDomain: "allegre-student-inspection.firebaseapp.com",
   projectId: "allegre-student-inspection",
   storageBucket: "allegre-student-inspection.firebasestorage.app",
