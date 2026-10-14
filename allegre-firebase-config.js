@@ -1,6 +1,6 @@
 
 window.ALLEGRE_FIREBASE_CONFIG = {
-  apiKey: "PASTE_YOUR_EXACT_FIREBASE_API_KEY_HERE",
+  apiKey: "AIzaSyC48eOpU_hxWxCxehV7x1TFFvMGMq_PfYE",
   authDomain: "allegre-student-inspection.firebaseapp.com",
   projectId: "allegre-student-inspection",
   storageBucket: "allegre-student-inspection.firebasestorage.app",
